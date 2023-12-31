@@ -66,10 +66,22 @@
  ![image](https://github.com/hipster-x/Lab-3/assets/145153023/75bdf985-af50-45c0-8dfd-b13961d3d527)
 
   2. JohnTheRipper
+ 
  Ищем пароль с помощью JohnTheRippe
 
  ![293508285-3c459940-c996-400d-8384-4819fb2c4633 (1)1](https://github.com/hipster-x/Lab-3/assets/145153023/7b45ee45-a505-4710-82ac-08d79ade3cf6)
 
 ![293508285-3c459940-c996-400d-8384-4819fb2c46331](https://github.com/hipster-x/Lab-3/assets/145153023/b8764980-87ca-4d17-8863-6d4dc582b9b3)
+
+# Задание 5. Сетевая Защита и Защита От Вторжений
+
+ 1. Wireshark
+
+ ![image](https://github.com/hipster-x/Lab-3/assets/145153023/feb29426-8089-4e86-a05e-7f175f15afa1)
+
+ 2. Snort
+
+ ![image](https://github.com/hipster-x/Lab-3/assets/145153023/f5634d39-2e9f-4e27-816f-46ebf3608acd)
+
 
 
