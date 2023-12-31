@@ -58,7 +58,8 @@
   1. Metasploit
  Задаем параметры
  
-  ![image](https://github.com/hipster-x/Lab-3/assets/145153023/c1b99f75-3600-42bf-8fbe-64cfcd389e33)
+  ![293508070-c1b99f75-3600-42bf-8fbe-64cfcd389e33](https://github.com/hipster-x/Lab-3/assets/145153023/aabee419-f2d9-4991-ab8d-3a72435b88f4)
+
 
  Получаем пароль root пользователя
 
