@@ -57,13 +57,14 @@
 
   1. Metasploit
  Задаем параметры
- 
-  ![293508070-c1b99f75-3600-42bf-8fbe-64cfcd389e33](https://github.com/hipster-x/Lab-3/assets/145153023/aabee419-f2d9-4991-ab8d-3a72435b88f4)
+
+  ![image](https://github.com/hipster-x/Lab-3/assets/145153023/50b6df68-93d2-4808-aec7-6166b76bdb64)
 
 
  Получаем пароль root пользователя
 
- ![image](https://github.com/hipster-x/Lab-3/assets/145153023/75bdf985-af50-45c0-8dfd-b13961d3d527)
+ ![image](https://github.com/hipster-x/Lab-3/assets/145153023/5b1429b0-281a-47a9-8d54-b8bc2b2510e6)
+
 
   2. JohnTheRipper
  
