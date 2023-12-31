@@ -68,6 +68,7 @@
   2. JohnTheRipper
 
  ![293508285-3c459940-c996-400d-8384-4819fb2c46331](https://github.com/hipster-x/Lab-3/assets/145153023/b8764980-87ca-4d17-8863-6d4dc582b9b3)
+ 
  ![293508285-3c459940-c996-400d-8384-4819fb2c4633 (1)1](https://github.com/hipster-x/Lab-3/assets/145153023/7b45ee45-a505-4710-82ac-08d79ade3cf6)
 
 
